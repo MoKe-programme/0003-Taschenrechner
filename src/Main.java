@@ -1,6 +1,6 @@
-import java.text.ParseException;
-
 import javax.swing.JOptionPane;
+
+//Version 0.1a
 
 public class Main {
 
